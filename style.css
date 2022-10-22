@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    width: 60%;
+    width: 40%;
     margin: 40px auto;
     background: hsla(231, 12%, 12%, 1);
 }
@@ -70,7 +70,7 @@ body {
 }
 
 .email-svg {
-    transform: translate(-8px, 4px);
+    transform: translate(-8px, 3px);
 }
 
 .linkedIn-svg {
@@ -99,6 +99,7 @@ body {
 }
 
 .paragraph {
+    max-width: 75%;
     font-size: 12px;
     line-height: 16px;
     color: hsla(0, 0%, 86%, 1);
